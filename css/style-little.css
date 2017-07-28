@@ -1,0 +1,16 @@
+@media (max-width: 445px){
+	nav{
+		display: none;
+	}
+    .bar{
+       
+        display: inline-block;
+    }
+	select{
+		background: lightgrey;
+        margin-top: 5%;
+        margin-left: 5%;
+        width: 90%;
+		display: inline-block;
+	}
+}

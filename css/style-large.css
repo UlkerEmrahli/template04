@@ -1,0 +1,9 @@
+@media only screen and (max-width: 992px) {
+	.child-col3{
+	border-right: none;
+	}
+	.child-col4{
+	border-right: none;
+	}
+	
+}
